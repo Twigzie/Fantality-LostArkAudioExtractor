@@ -8,7 +8,7 @@ A tool that converts Lost Ark audio files into MP3 or OGG using programs provide
 # Usage
 
 **LostArkAudioExtractor.exe** [ *source_file* ]
-> [ **source_file** ] *The source file to be decrypted*
+> [ **source_file** ] *The source file to be converted*
 > -  **Example:** `LostArkAudioExtractor.exe "(FOLDER)\(FILE).bnk"`
 >
 > **NOTE**: *Files can also be dropped onto the executable for processing*
